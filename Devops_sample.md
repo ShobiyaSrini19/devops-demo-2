@@ -1,2 +1,2 @@
-# **THIS IS MY PROJECT**
+# **THIS IS OUR PROJECT**
 
